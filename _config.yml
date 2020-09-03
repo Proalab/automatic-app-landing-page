@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Nice & Simple
-    description                           : has modern and simple interface.
+    description                           : has modern and simple interface
     fontawesome_icon_name                 : universal-access
     
   - title                                 : Powerfull Route Builder
@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : route
 
   - title                                 : Pick Your Travel Style
-    description                           : supports motorcycle, car, bicycle, track, walking routes
+    description                           : supports motorcycle, car, bicycle, walking routes
     fontawesome_icon_name                 : motorcycle
 
   - title                                 : Get Weather Forecast
